@@ -1,0 +1,32 @@
+
+      body{
+	    color: rgb(240,28,235);	   
+	  }
+      h1{
+	     background-color: purple;	 
+		 border-bottom: 1px solid black;
+		 border-left: 1px solid black;
+		 border-top: 1px solid black;
+		 font-weight:bolder
+		 text-decoration:line-through
+	  }
+	  p,h2{
+	  color:green;
+	  font-size: 25px;
+	  font-family: Helvetica
+	  }
+	  h3{
+	  border:  1px solid black;
+	  }
+	  .sixthline{
+	     font-size: 60px;
+		 font-style: italic
+	  }
+	  h4{
+	    font-family:Verdana, Arial, Geneva, Arial Black
+		font-weight:lighter
+	  }
+	  .underline{
+	     text-decoration: underline overline;
+	  }
+   
